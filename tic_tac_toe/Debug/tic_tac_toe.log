@@ -1,0 +1,3 @@
+﻿  spiel.cpp
+E:\Users\ben\Desktop\VS\C++\tic_tac_toe\tic_tac_toe\spiel.cpp(30,6): warning C4102: "std": Unreferenzierte Bezeichnung
+  tic_tac_toe.vcxproj -> E:\Users\ben\Desktop\VS\C++\tic_tac_toe\Debug\tic_tac_toe.exe
